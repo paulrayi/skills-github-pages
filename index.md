@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+date: 2023-10-14
 ---
 
 # This is my first GitHub page and blog
